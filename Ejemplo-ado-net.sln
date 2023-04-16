@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformApp", "WinformApp\WinformApp.csproj", "{3E7B7F1D-5B42-4882-9966-B0C24E6BB3AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{181E01AD-38CD-480B-BD69-4E6182C1AE82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{207DFD5D-E96C-436D-91F4-92331348BEE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E7B7F1D-5B42-4882-9966-B0C24E6BB3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7B7F1D-5B42-4882-9966-B0C24E6BB3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7B7F1D-5B42-4882-9966-B0C24E6BB3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7B7F1D-5B42-4882-9966-B0C24E6BB3AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181E01AD-38CD-480B-BD69-4E6182C1AE82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181E01AD-38CD-480B-BD69-4E6182C1AE82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181E01AD-38CD-480B-BD69-4E6182C1AE82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181E01AD-38CD-480B-BD69-4E6182C1AE82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{207DFD5D-E96C-436D-91F4-92331348BEE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207DFD5D-E96C-436D-91F4-92331348BEE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207DFD5D-E96C-436D-91F4-92331348BEE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207DFD5D-E96C-436D-91F4-92331348BEE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE088166-B869-4669-9CEC-6B501545968C}
+	EndGlobalSection
+EndGlobal
